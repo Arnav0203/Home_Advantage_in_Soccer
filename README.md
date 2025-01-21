@@ -1,2 +1,2 @@
 # Home_Advantage_in_Soccer
-This thesis explores the extent of impact that the absence of fans has on the match results and the predominant factors that cause this.
+This thesis explores the extent of impact that the absence of fans has on the match results and the predominant factors that cause this. This thesis finds that the odds of a win for the home team are 1.28 times higher when playing in the presence of crowds as compared to when playing in empty stadiums. Results also suggest that in the absence of supporters, there is a significant change in the behavior of referees as they tend to favor home teams under pressure of partisan crowds.
